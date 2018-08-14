@@ -1,0 +1,16 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_027\CS-ASP_027\bin\CS-ASP_027.dll.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_027\CS-ASP_027\bin\CS-ASP_027.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_027\CS-ASP_027\bin\CS-ASP_027.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_027\CS-ASP_027\obj\Debug\CS-ASP_027.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_027\CS-ASP_027\obj\Debug\CS-ASP_027.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_027\CS-ASP_027\obj\Debug\CS-ASP_027.pdb
+C:\Users\Bob van Beekhoven\Downloads\CSASP_027_Code\CS-ASP_027\Before\CS-ASP_027\CS-ASP_027\bin\CS-ASP_027.dll.config
+C:\Users\Bob van Beekhoven\Downloads\CSASP_027_Code\CS-ASP_027\Before\CS-ASP_027\CS-ASP_027\bin\CS-ASP_027.dll
+C:\Users\Bob van Beekhoven\Downloads\CSASP_027_Code\CS-ASP_027\Before\CS-ASP_027\CS-ASP_027\bin\CS-ASP_027.pdb
+C:\Users\Bob van Beekhoven\Downloads\CSASP_027_Code\CS-ASP_027\Before\CS-ASP_027\CS-ASP_027\obj\Debug\CS-ASP_027.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_027_Code\CS-ASP_027\Before\CS-ASP_027\CS-ASP_027\obj\Debug\CS-ASP_027.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_027_Code\CS-ASP_027\Before\CS-ASP_027\CS-ASP_027\obj\Debug\CS-ASP_027.dll
+C:\Users\Bob van Beekhoven\Downloads\CSASP_027_Code\CS-ASP_027\Before\CS-ASP_027\CS-ASP_027\obj\Debug\CS-ASP_027.pdb
+C:\Users\Bob van Beekhoven\Downloads\CSASP_027_Code\CS-ASP_027\Before\CS-ASP_027\CS-ASP_027\bin\DocumentFormat.OpenXml.dll
+C:\Users\Bob van Beekhoven\Downloads\CSASP_027_Code\CS-ASP_027\Before\CS-ASP_027\CS-ASP_027\bin\DocumentFormat.OpenXml.xml
+C:\Users\Bob van Beekhoven\Downloads\CSASP_027_Code\CS-ASP_027\Before\CS-ASP_027\CS-ASP_027\obj\Debug\CS-ASP_027.csproj.CopyComplete
