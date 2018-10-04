@@ -1,0 +1,24 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\CS-ASP_041-Windows.exe.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\CS-ASP_041-Windows.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\CS-ASP_041-Windows.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\HeroMonster.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\HeroMonster.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS_ASP_041_Windows.Form1.resources
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS_ASP_041_Windows.Properties.Resources.resources
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.csproj.GenerateResource.Cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.pdb
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\CS-ASP_041-Windows.exe.config
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\CS-ASP_041-Windows.exe
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\CS-ASP_041-Windows.pdb
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\HeroMonster.dll
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\HeroMonster.pdb
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS_ASP_041_Windows.Form1.resources
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS_ASP_041_Windows.Properties.Resources.resources
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.csproj.GenerateResource.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.csproj.CopyComplete
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.exe
+C:\Users\Bob van Beekhoven\Downloads\CSASP_041_Code\CS-ASP_041\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.pdb
