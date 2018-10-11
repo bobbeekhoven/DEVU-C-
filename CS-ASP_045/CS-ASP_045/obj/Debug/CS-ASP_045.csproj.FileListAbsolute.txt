@@ -1,0 +1,8 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_045\CS-ASP_045\obj\Debug\CS-ASP_045.csprojResolveAssemblyReference.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_045_Code\CS-ASP_045\CS-ASP_045\bin\CS-ASP_045.dll.config
+C:\Users\Bob van Beekhoven\Downloads\CSASP_045_Code\CS-ASP_045\CS-ASP_045\bin\CS-ASP_045.dll
+C:\Users\Bob van Beekhoven\Downloads\CSASP_045_Code\CS-ASP_045\CS-ASP_045\bin\CS-ASP_045.pdb
+C:\Users\Bob van Beekhoven\Downloads\CSASP_045_Code\CS-ASP_045\CS-ASP_045\obj\Debug\CS-ASP_045.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_045_Code\CS-ASP_045\CS-ASP_045\obj\Debug\CS-ASP_045.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_045_Code\CS-ASP_045\CS-ASP_045\obj\Debug\CS-ASP_045.dll
+C:\Users\Bob van Beekhoven\Downloads\CSASP_045_Code\CS-ASP_045\CS-ASP_045\obj\Debug\CS-ASP_045.pdb
