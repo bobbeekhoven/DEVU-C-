@@ -1,0 +1,7 @@
+C:\Users\Bob van Beekhoven\Downloads\CSASP_047_Code\CS-ASP_047\Before\CS-ASP_047\CS-ASP_047\bin\CS-ASP_047.dll.config
+C:\Users\Bob van Beekhoven\Downloads\CSASP_047_Code\CS-ASP_047\Before\CS-ASP_047\CS-ASP_047\bin\CS-ASP_047.dll
+C:\Users\Bob van Beekhoven\Downloads\CSASP_047_Code\CS-ASP_047\Before\CS-ASP_047\CS-ASP_047\bin\CS-ASP_047.pdb
+C:\Users\Bob van Beekhoven\Downloads\CSASP_047_Code\CS-ASP_047\Before\CS-ASP_047\CS-ASP_047\obj\Debug\CS-ASP_047.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_047_Code\CS-ASP_047\Before\CS-ASP_047\CS-ASP_047\obj\Debug\CS-ASP_047.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_047_Code\CS-ASP_047\Before\CS-ASP_047\CS-ASP_047\obj\Debug\CS-ASP_047.dll
+C:\Users\Bob van Beekhoven\Downloads\CSASP_047_Code\CS-ASP_047\Before\CS-ASP_047\CS-ASP_047\obj\Debug\CS-ASP_047.pdb
