@@ -1,0 +1,19 @@
+C:\Users\sudo-ad\Downloads\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\bin\ConstantsExample.dll.config
+C:\Users\sudo-ad\Downloads\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\bin\ConstantsExample.dll
+C:\Users\sudo-ad\Downloads\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\bin\ConstantsExample.pdb
+C:\Users\sudo-ad\Downloads\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sudo-ad\Downloads\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sudo-ad\Downloads\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\obj\Debug\ConstantsExample.csprojResolveAssemblyReference.cache
+C:\Users\sudo-ad\Downloads\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\obj\Debug\ConstantsExample.csproj.CoreCompileInputs.cache
+C:\Users\sudo-ad\Downloads\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\obj\Debug\ConstantsExample.dll
+C:\Users\sudo-ad\Downloads\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\obj\Debug\ConstantsExample.pdb
+C:\Users\Bob van Beekhoven\Downloads\CS-ASP_53b_Code\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\bin\ConstantsExample.dll.config
+C:\Users\Bob van Beekhoven\Downloads\CS-ASP_53b_Code\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\bin\ConstantsExample.dll
+C:\Users\Bob van Beekhoven\Downloads\CS-ASP_53b_Code\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\bin\ConstantsExample.pdb
+C:\Users\Bob van Beekhoven\Downloads\CS-ASP_53b_Code\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bob van Beekhoven\Downloads\CS-ASP_53b_Code\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bob van Beekhoven\Downloads\CS-ASP_53b_Code\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\obj\Debug\ConstantsExample.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\Downloads\CS-ASP_53b_Code\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\obj\Debug\ConstantsExample.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\Downloads\CS-ASP_53b_Code\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\obj\Debug\ConstantsExample.csproj.CopyComplete
+C:\Users\Bob van Beekhoven\Downloads\CS-ASP_53b_Code\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\obj\Debug\ConstantsExample.dll
+C:\Users\Bob van Beekhoven\Downloads\CS-ASP_53b_Code\CS-ASP_53b\Before\ConstantsExample\ConstantsExample\obj\Debug\ConstantsExample.pdb
