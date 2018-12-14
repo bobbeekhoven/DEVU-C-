@@ -1,0 +1,11 @@
+c:\users\bob_000\documents\visual studio 2013\Projects\CustomExceptions\CustomExceptions.Domain\bin\Debug\CustomExceptions.Domain.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\CustomExceptions\CustomExceptions.Domain\bin\Debug\CustomExceptions.Domain.pdb
+c:\users\bob_000\documents\visual studio 2013\Projects\CustomExceptions\CustomExceptions.Domain\obj\Debug\CustomExceptions.Domain.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\CustomExceptions\CustomExceptions.Domain\obj\Debug\CustomExceptions.Domain.pdb
+C:\Users\bob_000\documents\visual studio 2013\Projects\CustomExceptions\CustomExceptions.Domain\obj\Debug\CustomExceptions.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_058_Code\CustomExceptions\CustomExceptions.Domain\bin\Debug\CustomExceptions.Domain.dll
+C:\Users\Bob van Beekhoven\Downloads\CSASP_058_Code\CustomExceptions\CustomExceptions.Domain\bin\Debug\CustomExceptions.Domain.pdb
+C:\Users\Bob van Beekhoven\Downloads\CSASP_058_Code\CustomExceptions\CustomExceptions.Domain\obj\Debug\CustomExceptions.Domain.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_058_Code\CustomExceptions\CustomExceptions.Domain\obj\Debug\CustomExceptions.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\Downloads\CSASP_058_Code\CustomExceptions\CustomExceptions.Domain\obj\Debug\CustomExceptions.Domain.dll
+C:\Users\Bob van Beekhoven\Downloads\CSASP_058_Code\CustomExceptions\CustomExceptions.Domain\obj\Debug\CustomExceptions.Domain.pdb
